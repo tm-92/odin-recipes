@@ -1,0 +1,15 @@
+.heading {
+    color: blueviolet;
+    font-size: 50px;
+    padding: 50px;
+    padding-left: 140px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+body.background-color {
+    background-color: aquamarine;
+}
+
+a {
+    padding:50px;
+}
