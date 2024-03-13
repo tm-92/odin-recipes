@@ -11,5 +11,19 @@ body.background-color {
 }
 
 a {
-    padding:50px;
+
+}
+
+.pizza-link, .lasagne-link, .fish-link {
+    display: inline-block;
+}
+
+button {
+    box-sizing: border-box;
+    height: 50px;
+    width: 125px;
+    padding: 0px;
+    margin: 20px;
+    border: 5px dotted rgb(127, 131, 255); 
+    background-color: rgb(127, 187, 255);
 }
